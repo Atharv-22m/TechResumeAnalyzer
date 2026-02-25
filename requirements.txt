@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+gspread
+google-auth
+pypdf
+langchain-google-genai
+langgraph
+typing_extensions
